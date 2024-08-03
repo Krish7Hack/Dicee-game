@@ -42,4 +42,4 @@ Feel free to submit issues and pull requests. Contributions are welcome!
 
 ## Contact
 
-For any inquiries, please reach out to [your-krishnamalani77@gmail.com](mailto:krishnamalani77@gmail.com).
+For any inquiries, please reach out to [krishnamalani77@gmail.com](mailto:krishnamalani77@gmail.com).
